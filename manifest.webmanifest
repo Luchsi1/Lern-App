@@ -1,0 +1,14 @@
+{
+  "name": "Lernkarten",
+  "short_name": "Lernkarten",
+  "description": "Karteikarten mit Spaced Repetition – komplett offline im Browser.",
+  "lang": "de",
+  "start_url": "./#/dashboard",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f6f3",
+  "theme_color": "#3f5bd8",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
